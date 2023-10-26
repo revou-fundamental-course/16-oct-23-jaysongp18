@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(16, 16, 16);
+    color: rgb(233, 232, 232);
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding:0.5em 2em;
+    align-items: center;
+    border-bottom: 1px solid darkgray;
+}
+
+.nav-logo img {
+    max-height: 6vw;
+}
+
+.nav {
+    display: flex;
+}
+
+.navbar {
+    padding: 0 6em;
+}
